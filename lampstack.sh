@@ -1,3 +1,6 @@
+#pull into your instance using sudo git clone https://github.com/dsaconrad/lampstack-aws-ec2.git .
+#run script with sudo ./lampstack.sh
+
 #!/bin/bash
 
 echo "User instructions will be provided as installtion progresses."
